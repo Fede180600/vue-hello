@@ -5,7 +5,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Questo è un contenuto inserito dinamicamente con Vuejs'
+            message: "Questo è un contenuto inserito dinamicamente con Vue",
+            image: "../vue-hello/img/diabolik.jpg"
         }
     }
 )
